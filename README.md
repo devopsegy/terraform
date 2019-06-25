@@ -1,1 +1,1 @@
-WordPress High Availability by Mohammed Ali With Terraform
+WordPress High Availability On AWS 
